@@ -1,6 +1,6 @@
 ## Install
 ```bash
-curl -Ls luminis-secops.jasperv.nl | sh
+curl -Ls mac-secops.jasperv.nl | sh
 ```
 and reboot!
 
