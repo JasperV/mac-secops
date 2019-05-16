@@ -95,7 +95,7 @@ rm -rfv "~/Library/Application Support/Quick Look/*"
 # TODO: error: Operation not permitted
 # log "Disable Quarantine data collection from downloaded files"
 # chflags schg ~/Library/Preferences/com.apple.LaunchServices.QuarantineEventsV2
- 
+
 log "Clear SiriAnalytics database"
 rm -rfv ~/Library/Assistant/SiriAnalytics.db
 
